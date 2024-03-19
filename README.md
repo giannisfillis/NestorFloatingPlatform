@@ -2,7 +2,7 @@
 
 The report is written in Greek.
 We analyze the Nestor floating platform.
-Note: Of course there needs to be some minor changes to some parts of the code in the future.
+- Note: Of course there needs to be some minor changes to some parts of the code in the future.
 
 # Details
 
